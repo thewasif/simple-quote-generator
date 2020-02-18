@@ -1,0 +1,17 @@
+{
+  "name": "simple-quote-generator",
+  "version": "1.0.0",
+  "description": "A simple random quote generator CLI",
+  "main": "index.js",
+  "bin": {
+    "quote": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Wasif",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
