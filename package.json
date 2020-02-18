@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple random quote generator CLI",
   "main": "index.js",
+  "repository": "github:muhammadwasif/simple-quote-generator",
   "bin": {
     "quote": "./index.js"
   },
